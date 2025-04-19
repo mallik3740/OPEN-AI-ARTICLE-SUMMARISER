@@ -26,11 +26,14 @@ This is an AI-powered web application that takes a URL of any article and genera
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home Screenshot](screenshots/home.png)
+![Screenshot](https://user-images.githubusercontent.com/.../image.png)
 
-### 🔍 Summary Result
-![Summary Screenshot](screenshots/summary.png)
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 🧠 Summary Result
+![Summary](screenshots/summary.png)
+
 
 > 📌 Place your screenshots in a `screenshots/` folder and reference the paths as above.
 
