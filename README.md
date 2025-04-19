@@ -35,8 +35,6 @@ This is an AI-powered web application that takes a URL of any article and genera
 ![Summary](screenshots/summary.png)
 
 
-> 📌 Place your screenshots in a `screenshots/` folder and reference the paths as above.
-
 ---
 
 ## 🛠️ Installation & Setup
