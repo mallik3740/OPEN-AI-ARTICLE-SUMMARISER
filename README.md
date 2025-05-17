@@ -28,7 +28,9 @@ This is an AI-powered web application that takes a URL of any article and genera
 
 ```bash
 git clone https://github.com/mallik3740/OPEN-AI-ARTICLE-SUMMARISER.git
+
 cd OPEN-AI-ARTICLE-SUMMARISER
+
 npm install
 
 How to Use
