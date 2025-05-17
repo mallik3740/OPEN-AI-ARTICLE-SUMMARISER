@@ -23,7 +23,6 @@ This is an AI-powered web application that takes a URL of any article and genera
 - Vite (for React project setup)
 
 ---
----
 
 ## 🛠️ Installation & Setup
 
