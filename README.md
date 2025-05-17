@@ -23,18 +23,6 @@ This is an AI-powered web application that takes a URL of any article and genera
 - Vite (for React project setup)
 
 ---
-
-## 📸 Screenshots
-
-![Screenshot](https://user-images.githubusercontent.com/.../image.png)
-
-### 🏠 Home Page
-![Home](screenshots/home.png)
-
-### 🧠 Summary Result
-![Summary](screenshots/summary.png)
-
-
 ---
 
 ## 🛠️ Installation & Setup
