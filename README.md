@@ -26,6 +26,9 @@ This is an AI-powered web application that takes a URL of any article and genera
 
 ## 🛠️ Installation & Setup
 
+<img width="1632" height="944" alt="image" src="https://github.com/user-attachments/assets/a171606a-da06-407b-927e-cc47d674198e" />
+
+
 ```bash
 git clone https://github.com/mallik3740/OPEN-AI-ARTICLE-SUMMARISER.git
 
